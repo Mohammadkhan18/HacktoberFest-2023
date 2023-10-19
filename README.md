@@ -1,6 +1,5 @@
 # Welcome to the Hacktoberfest 2023 Repository!
 
-![HactoberFest Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhacktoberfest.com%2F&psig=AOvVaw2UJgD825rHG_OzU41D4Sjr&ust=1697825268875000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPC-jZTagoIDFQAAAAAdAAAAABAE)
 ## Introduction
 ## Guidelines:
 
