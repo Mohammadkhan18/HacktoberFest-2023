@@ -1,6 +1,6 @@
 # Welcome to the Hacktoberfest 2023 Repository!
 
-![Hacktoberfest Logo](./assets/opengraph.e5fafe07.png)
+![Hacktoberfest Logo](./assets/hacktoberfest_wall.png)
 
 ## Introduction
 ## Guidelines:
@@ -8,7 +8,7 @@
 - **No DELETING files** 
 - Your code doesn't have to be pretty
 - You have the freedom to use any programming language.
-- If there is no folder for the Programming Language YOU are using, please create a folder inside the **"HacktoberFest"** directory with the name of the language.
+- If there is no folder for the Programming Language YOU are using, please create a folder
 - Enjoy the coding process!
 
 Whether you're a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
