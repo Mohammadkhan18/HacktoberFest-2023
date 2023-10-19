@@ -157,9 +157,6 @@ Now, let's get you started with contributing to other projects. We've compiled a
 I will merge all pull requests as quickly as possible, as long as they meet the project's requirements and guidelines and are Legit.
 <br>
 Happy coding!
-
-
-***
 <h2 align="center">
     <p>
         Thank You
