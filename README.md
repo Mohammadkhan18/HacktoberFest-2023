@@ -1,6 +1,6 @@
 # Welcome to the Hacktoberfest 2023 Repository!
 
-<img href = "">
+<img href = "",alt = 'logo'>
 
 ## Introduction
 ## Guidelines:
